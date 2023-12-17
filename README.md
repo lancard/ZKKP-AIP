@@ -1,3 +1,6 @@
+# ZKKP AIP
+this is unofficial zkkp aip site.
+
 # ZKPY airport
 - AD: https://docs.google.com/drawings/d/1i5-MPOAG82jDGAm02Vgn1sIow4qArLh8jdKC36zkJ9k/edit?usp=drive_link
 - PARKING AND DOCKING: https://docs.google.com/drawings/d/1pS3pQOvoIkasIqEVvwI4QhE8Xoiz72WIcp7O6ESl5Fo/edit?usp=drive_link
