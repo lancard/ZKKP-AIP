@@ -1,5 +1,6 @@
 # ZKKP AIP
 this is unofficial zkkp aip site.
+this is north korea aip charts.
 
 # ZKPY airport
 - AD: https://docs.google.com/drawings/d/1i5-MPOAG82jDGAm02Vgn1sIow4qArLh8jdKC36zkJ9k/edit?usp=drive_link
