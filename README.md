@@ -2,6 +2,9 @@
 this is unofficial zkkp aip site.
 this is north korea aip charts.
 
+# ZKKP FIR
+- ENROUTE CHART: https://docs.google.com/drawings/d/1CB7K3bvME5Nwgl3nvWgxaRYGCqwNkuWoWQbT2moQ5D4/edit?drive_link
+
 # ZKPY airport
 - AD: https://docs.google.com/drawings/d/1i5-MPOAG82jDGAm02Vgn1sIow4qArLh8jdKC36zkJ9k/edit?usp=drive_link
 - PARKING AND DOCKING: https://docs.google.com/drawings/d/1pS3pQOvoIkasIqEVvwI4QhE8Xoiz72WIcp7O6ESl5Fo/edit?usp=drive_link
