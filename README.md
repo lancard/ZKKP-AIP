@@ -5,7 +5,7 @@ this is north korea aip charts.
 # ZKKP FIR
 - ENROUTE CHART: https://docs.google.com/drawings/d/1CB7K3bvME5Nwgl3nvWgxaRYGCqwNkuWoWQbT2moQ5D4/edit?drive_link
 
-# ZKPY airport
+# ZKPY(pyongyang) airport
 - AD: https://docs.google.com/drawings/d/1i5-MPOAG82jDGAm02Vgn1sIow4qArLh8jdKC36zkJ9k/edit?usp=drive_link
 - PARKING AND DOCKING: https://docs.google.com/drawings/d/1pS3pQOvoIkasIqEVvwI4QhE8Xoiz72WIcp7O6ESl5Fo/edit?usp=drive_link
 - SID: https://docs.google.com/drawings/d/15QUM8bKBDNS6_jhxoA5Ilz9r1F2XFPA3vBEpWFNeePE/edit?usp=drive_link
@@ -15,7 +15,7 @@ this is north korea aip charts.
 - RNP 17: https://docs.google.com/drawings/d/15aEW6B54jhTT7e-LEOelqpBH89iVGs3tBEUewCouZyQ/edit?usp=drive_link
 - RNP 35: https://docs.google.com/drawings/d/1cpO68EiuOin4n9P7b1gCgpXThzVehP0d31BKfF2DOZ8/edit?usp=drive_link
 
-# ZKWS airport
+# ZKWS(wonsan) airport
 - AD: https://docs.google.com/drawings/d/1zCEK813XHRaso_utq9C2v2nyxuCDLWeam-5Rs6wAGKI/edit?usp=drive_link
 - PARKING AND DOCKING: https://docs.google.com/drawings/d/1RFYDxQtj2ZoKT1h1H86UNOrlC8y2MzPrX_mN2CVaak4/edit?usp=drive_link
 - SID: https://docs.google.com/drawings/d/15SYvGTXsQFpewbWRBK-QpAoeYWUy3Xj9zZ8UHC4CBHE/edit?usp=drive_link
