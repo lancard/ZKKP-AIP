@@ -4,6 +4,8 @@ this is north korea aip charts.
 
 # ZKKP FIR
 - ENROUTE CHART: https://docs.google.com/drawings/d/1CB7K3bvME5Nwgl3nvWgxaRYGCqwNkuWoWQbT2moQ5D4/edit?drive_link
+- Conventional Airway(Text): https://docs.google.com/spreadsheets/d/1Mz6leyCmmju2T2EEHXMCFOqEHtBJEIbSDRovhkB8fbY/edit?usp=sharing
+- Rnav Airway(Text): https://docs.google.com/spreadsheets/d/1bFn6KiGpqwbO3PO-cWBUipBGm-r5yT0GdnQ66ZvVASA/edit?usp=sharing
 
 # ZKPY(pyongyang) airport
 - AD: https://docs.google.com/drawings/d/1i5-MPOAG82jDGAm02Vgn1sIow4qArLh8jdKC36zkJ9k/edit?usp=drive_link
