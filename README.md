@@ -8,6 +8,7 @@ this is north korea aip charts.
 - Rnav Airway(Text): https://docs.google.com/spreadsheets/d/1bFn6KiGpqwbO3PO-cWBUipBGm-r5yT0GdnQ66ZvVASA/edit?usp=sharing
 
 # ZKPY(pyongyang) airport
+- AD TEXT: https://docs.google.com/document/d/1MpNBoRKs5PAJ2kr8lmL1IMyiSXwu8pjuapdMON6fju0/edit?usp=sharing
 - AD: https://docs.google.com/drawings/d/1i5-MPOAG82jDGAm02Vgn1sIow4qArLh8jdKC36zkJ9k/edit?usp=drive_link
 - PARKING AND DOCKING: https://docs.google.com/drawings/d/1pS3pQOvoIkasIqEVvwI4QhE8Xoiz72WIcp7O6ESl5Fo/edit?usp=drive_link
 - SID: https://docs.google.com/drawings/d/15QUM8bKBDNS6_jhxoA5Ilz9r1F2XFPA3vBEpWFNeePE/edit?usp=drive_link
