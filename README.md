@@ -13,10 +13,10 @@ this is north korea aip charts.
 - PARKING AND DOCKING: https://docs.google.com/drawings/d/1pS3pQOvoIkasIqEVvwI4QhE8Xoiz72WIcp7O6ESl5Fo/edit?usp=drive_link
 - SID: https://docs.google.com/drawings/d/15QUM8bKBDNS6_jhxoA5Ilz9r1F2XFPA3vBEpWFNeePE/edit?usp=drive_link
 - STAR: https://docs.google.com/drawings/d/1oTln52p3Z8Gd9-BJQVquxRaWDHOHyuDUFG6gTrefhso/edit?usp=drive_link
-- ILS DME rwy 17: https://docs.google.com/drawings/d/186aWUvRcJOuadxu6QEcsDWyz5M4Wc4T5qhz_lU0hkIs/edit?usp=drive_link
-- ILS rwy 35: https://docs.google.com/drawings/d/1XPadjZpe-4uQ8-ls_y9AacdV1WtjSSictudLyMvYiT4/edit?usp=drive_link
-- RNP 17: https://docs.google.com/drawings/d/15aEW6B54jhTT7e-LEOelqpBH89iVGs3tBEUewCouZyQ/edit?usp=drive_link
-- RNP 35: https://docs.google.com/drawings/d/1cpO68EiuOin4n9P7b1gCgpXThzVehP0d31BKfF2DOZ8/edit?usp=drive_link
+- ILS DME rwy 17: https://docs.google.com/drawings/d/1uxR_gU_l8QW1x04nYYccQcNnPw7MWrGjVOMRd_PXKQo/edit?usp=sharing
+- ILS rwy 35: https://docs.google.com/drawings/d/1AAsX_2wOGk1-_JztiDS4B0Hx7kkoi30QEsc27dbxF0E/edit?usp=sharing
+- RNP 17: https://docs.google.com/drawings/d/1L-UyxkfgeYGFTYjfFpEJrBR5KXdpfEXSeDRD_xNIKe0/edit?usp=sharing
+- RNP 35: https://docs.google.com/drawings/d/1QJBnYZE3Q5hjsnKd_UfzH3uyBomnqRPM0sUphnXMGA4/edit?usp=sharing
 
 # ZKWS(wonsan) airport
 - AD: https://docs.google.com/drawings/d/1zCEK813XHRaso_utq9C2v2nyxuCDLWeam-5Rs6wAGKI/edit?usp=drive_link
