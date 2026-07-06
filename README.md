@@ -13,8 +13,8 @@ this is north korea aip charts.
 - PARKING AND DOCKING: https://docs.google.com/drawings/d/1pS3pQOvoIkasIqEVvwI4QhE8Xoiz72WIcp7O6ESl5Fo/edit?usp=drive_link
 - SID: https://docs.google.com/drawings/d/15QUM8bKBDNS6_jhxoA5Ilz9r1F2XFPA3vBEpWFNeePE/edit?usp=drive_link
 - STAR: https://docs.google.com/drawings/d/1oTln52p3Z8Gd9-BJQVquxRaWDHOHyuDUFG6gTrefhso/edit?usp=drive_link
-- ILS DME rwy 17: https://docs.google.com/drawings/d/1uxR_gU_l8QW1x04nYYccQcNnPw7MWrGjVOMRd_PXKQo/edit?usp=sharing
-- ILS rwy 35: https://docs.google.com/drawings/d/1AAsX_2wOGk1-_JztiDS4B0Hx7kkoi30QEsc27dbxF0E/edit?usp=sharing
+- ILS DME RWY 17: https://docs.google.com/drawings/d/1uxR_gU_l8QW1x04nYYccQcNnPw7MWrGjVOMRd_PXKQo/edit?usp=sharing
+- ILS RWY 35: https://docs.google.com/drawings/d/1AAsX_2wOGk1-_JztiDS4B0Hx7kkoi30QEsc27dbxF0E/edit?usp=sharing
 - RNP 17: https://docs.google.com/drawings/d/1L-UyxkfgeYGFTYjfFpEJrBR5KXdpfEXSeDRD_xNIKe0/edit?usp=sharing
 - RNP 35: https://docs.google.com/drawings/d/1QJBnYZE3Q5hjsnKd_UfzH3uyBomnqRPM0sUphnXMGA4/edit?usp=sharing
 
@@ -23,5 +23,8 @@ this is north korea aip charts.
 - PARKING AND DOCKING: https://docs.google.com/drawings/d/1RFYDxQtj2ZoKT1h1H86UNOrlC8y2MzPrX_mN2CVaak4/edit?usp=drive_link
 - SID: https://docs.google.com/drawings/d/1hOLG93VFd1navw7cRcsEwAzzzncoUgGulaMJHK_3KLQ/edit?usp=sharing
 - STAR: https://docs.google.com/drawings/d/1q00dNvben_hmLqR1scs1p6JsDa6lxD8B0ci9J4L6C1I/edit?usp=sharing
-- ILS: https://docs.google.com/drawings/d/1BlTYFSnlrGW5e2FgEwv7b2Zoa26dqTEMzydzN-crDEM/edit?usp=drive_link
-- RNAV: https://docs.google.com/drawings/d/1Cy27EQnWx6FSwibdAlG-JXoSJq5k0cQ7E345uVKv09A/edit?usp=drive_link
+- ILS DME RWY 15L: https://docs.google.com/drawings/d/1xxC3cDKkz0nC5N56NIf5AAQ_VG24iQFiutZWIB43aqQ/edit?usp=drive_link
+- RNP 15L: https://docs.google.com/drawings/d/1ZGkgJhbdvEGLr1DvlI4N99UVt_bp36zOp5fkpoLbvjQ/edit?usp=drive_link
+- RNP 15R: https://docs.google.com/drawings/d/1p8Kav1L5XuUZek7h-BBYkLQtCR8LNRBsukGxrm7Nr5M/edit?usp=drive_link
+- VIS 33L: https://docs.google.com/drawings/d/14E_7oBESTkxcv2odW6LTjnmCh4HMDdKBWMrf_1M9_oE/edit?usp=drive_link
+- VIS 33R: https://docs.google.com/drawings/d/1EKqn9QR9hbXZLShaeieyVAiJSYyV07p6teHpOi3WOSA/edit?usp=drive_link
